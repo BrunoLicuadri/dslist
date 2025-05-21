@@ -1,7 +1,5 @@
 package com.licuadri.dslist.entities;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Objects;
 
 import jakarta.persistence.Entity;
